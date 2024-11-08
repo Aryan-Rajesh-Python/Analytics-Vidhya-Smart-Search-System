@@ -27,7 +27,7 @@ To create a smart search tool that allows users to find relevant free courses on
    - The interface was customized using **CSS** to enhance its visual appeal and responsiveness, making it a pleasant experience across devices.
 
 ### Model Used:
-- **Groq Model**: [https://huggingface.co/spaces/aryan79/Analytics_Vidhya_Smart_Search_System](https://huggingface.co/spaces/aryan79/Analytics_Vidhya_Smart_Search_System)
+- **Groq Model**:  [https://huggingface.co/spaces/aryan79/Analytics_Vidhya_Smart_Search_System](https://huggingface.co/spaces/aryan79/Analytics_Vidhya_Smart_Search_System)
 
 ### Key Features:
 - **Course Search**: Find relevant courses on Analytics Vidhya based on your query.
